@@ -1,4 +1,5 @@
-NFSU2_PhotoMode
+# NFSU2_PhotoMode
 Native Photomode like in NFS Carbon
 
-(C) All rights reserved You are not allowed to reupload this elsewhere without my approval
+(C) All rights reserved
+You are not allowed to reupload this elsewhere without my approval
